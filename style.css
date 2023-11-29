@@ -1,0 +1,64 @@
+body {
+    background-image: url("images/1_fb95372d-1d7f-4ce9-baf7-2b03e7009170_1024x1024.webp");
+    background-size: cover;
+}
+img{
+    width: 50px;
+    height: 50px;
+    margin: 100px;
+    border: 1px solid #fff;
+    
+}
+#cafe-navbar ul {
+    float:right;
+    margin-top: 100px;
+
+}
+#cafe-navbar ul li{
+    display: inline;
+    padding: 25px;
+   
+}
+#cafe-navbar ul li a{
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 300;
+}
+#cafe-navbar ul li a:hover{
+    color: brown;
+    border: 1px solid #fff;
+    background-color: black;
+    border-radius: 10px;
+    padding: 10px 8px;
+    transition: all 0.3ms;
+
+}
+h1{
+    color: black;
+    font-size: 90px;
+    font-size: 900;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    margin-right: 30px;
+    
+}
+h3{
+    color: black;
+    font-size: 30px;
+    font-size: 900;
+}
+button{
+    padding: 15px 50px;
+    color: #fff;
+    background-color: black;
+    border: 1px solid white;
+    border-radius: 10px;
+    font-size: 20px;
+}
+button:hover{
+    color:black;
+    background-color: brown;
+    
+    
+}
